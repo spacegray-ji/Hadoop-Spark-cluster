@@ -6,11 +6,10 @@
 
 ## Versioning
 
-In progress 1.0.0 (updated 24.01.19)
+In progress 1.0.0 (updated 24.01.19) //
 Notion page: https://sugared-anglerfish-b72.notion.site/Hadoop-Spark-Macbook-with-docker-3b6cadd82c724539bac7febaf011fb86?pvs=4
 
 ## Authors
-
 * **Geonwoo Ji** 
 
 
